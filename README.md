@@ -160,6 +160,79 @@ Quick verification via QR
 ---
 
 ## 📄 الترخيص | License
-MIT
+# Web3 Identity — ali.cb.id
 
+صفحة هوية رقمية لامركزية (Web3) بسيطة وآمنة لعرض هويتك على السلسلة  
+A simple and secure decentralized Web3 identity page to present your on-chain identity.
+
+> لا يوجد ربط محفظة • لا توقيعات • لا Mint  
+> No wallet connection • No signatures • No minting  
+> **Display-only identity page**
+
+---
+
+## 🔗 الهوية | Identity
+
+- **cb.id:** https://ali.cb.id  
+- **Wallet (read-only):**  
+  `0xB45A7510EaaD1Ef02CFaD55C67c0EA084CDD40d2`
+- **Network:** Base
+
+---
+
+## ✨ المميزات | Features
+
+- واجهة عربية (RTL)
+- تصميم خفيف ومناسب للجوال
+- رمز QR للمشاركة السريعة
+- لا يستخدم Web3 JavaScript
+- آمن 100% (عرض فقط)
+
+**Arabic RTL UI**  
+**Mobile-friendly lightweight design**  
+**QR code for fast sharing**  
+**No Web3 JS – read-only**
+
+---
+
+## 🚀 النشر | Deployment
+
+الصفحة منشورة عبر **GitHub Pages**
+
+- **الرابط المباشر | Live URL:**  
+  https://alialkhtri3-png.github.io/web3-id
+
+- **النطاق المخصص (بعد التفعيل):**  
+  https://ali.cb.id
+
+---
+
+## 🛡️ الأمان | Security
+
+- ❌ لا يوجد زر Connect Wallet  
+- ❌ لا توجد توقيعات أو Approvals  
+- ✅ عرض معلومات فقط
+
+No wallet connection  
+No approvals or signatures  
+Read-only public information
+
+---
+
+## 🧩 الاستخدام | Use Cases
+
+- التعريف بهويتك الرقمية
+- إضافتها في Bio (GitHub / X / Farcaster)
+- التحقق السريع عبر QR
+- إثبات ملكية عنوان بشكل غير تفاعلي
+
+Digital identity showcase  
+Bio link (GitHub / X / Farcaster)  
+Quick verification via QR
+
+---
+
+## 📄 الترخيص | License
+
+MIT
 
