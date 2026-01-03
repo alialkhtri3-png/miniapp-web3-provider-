@@ -17,3 +17,7 @@
   ]
 }
 
+git add .well-known/did.json
+git commit -m "Update DID Web document"
+git push origin main
+
