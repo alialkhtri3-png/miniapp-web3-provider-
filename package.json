@@ -1,16 +1,11 @@
 {
-  "name": "web3-id",
+  "name": "miniapp-web3-provider",
   "version": "0.1.0",
-  "description": "Web3 Identity Page – Web3 identity toolkit",
-  "type": "module",
-  "main": "src/provider.ts",
-  "scripts": {
-    "start": "node examples/index.js"
-  },
+  "description": "Lightweight EIP-1193 Web3 provider for Mini Apps and mobile dApps",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alialkhtri3-png/web3-id"
+    "url": "https://github.com/alialkhtri3-png/miniapp-web3-provider"
   }
 }
 
